@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 80px;
+    width: 950px;
+}
+.background-bg{
+    background-color: bisque;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+   color: #00b300;
+}
+.button{
+    background-image:linear-gradient(to bottom,#ff6600,#00b300) ;
+    border: none;
+    border-radius: 8px;
+    color: whitesmoke;
+    padding: 9px 25px;
+    cursor: pointer;
+}
