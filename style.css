@@ -1,6 +1,5 @@
 .container{
     margin-bottom: 80px;
-    width: 950px;
 }
 .background-bg{
     background-color: bisque;
@@ -19,4 +18,58 @@
     color: whitesmoke;
     padding: 9px 25px;
     cursor: pointer;
+}
+.cat1{
+    background-image: linear-gradient(red,blue);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.cat1 img{
+    height: 120px;
+    border-radius: 5px;
+}
+.cat2{
+    background-image: linear-gradient(#4dff4d,#ffb380);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.cat2 img{
+    height: 120px;
+    border-radius: 5px;  
+}
+.cat3{
+    background-image: linear-gradient(black,orange);
+    padding: 10px 20px;
+    border-radius: 10px;  
+}
+.cat3 img{
+    height: 120px;
+    border-radius: 5px;
+}
+.categories h1{
+    color: white;
+}
+.card-image{
+    height: 260px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow:5px 5px 10px #ffcc99 ;
+}
+.burger{
+    height:260px;
+}
+.card-footer{
+    background-color: white;
+    border-top:none;
+}
+#subscribe{
+    height:300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align:center ;
 }
